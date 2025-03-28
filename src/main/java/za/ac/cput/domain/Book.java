@@ -6,6 +6,7 @@ Author: Ashton Mondreo Petersen (220219494)
 
 package za.ac.cput.domain;
 
+// Book Class
 public class Book {
     public String isbn;
     public String title;
