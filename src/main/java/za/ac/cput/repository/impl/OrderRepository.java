@@ -1,6 +1,7 @@
 package za.ac.cput.repository.impl;
 
 import za.ac.cput.domain.Order;
+import za.ac.cput.repository.IOrderRepository;
 
 import java.util.List;
 

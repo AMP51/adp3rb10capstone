@@ -114,7 +114,7 @@ public class Main {
   paymentRepo.create(payment1);
 
 
-  paymentRepo.getPayment("P001");
+
 
   // Process the payment
   payment1.processPayment();
